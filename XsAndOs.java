@@ -1,7 +1,5 @@
 /**
 * XsAndOs.java
-* @author Veronica Tsarkova
-* @since 11/06/18
 * A program of Xs and Os game (Tic Tac Toe) in a 3 by 3 grid that is played by one user playing both X and O.
 * It prompts for user to enter an X token and O token alternately. Whenever a token is entered,
 * the program redisplays the board and determines the status of the game. When the three of the same marks (either X or O)
